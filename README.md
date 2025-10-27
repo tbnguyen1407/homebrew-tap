@@ -1,4 +1,4 @@
-# Tbnguyen1407 Tap
+# tbnguyen1407 Homebrew Tap
 
 ## How do I install these formulae?
 
